@@ -1,0 +1,2 @@
+# privacy
+Android Privacy Policy
